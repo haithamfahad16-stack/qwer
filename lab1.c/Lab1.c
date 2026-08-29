@@ -58,6 +58,6 @@ scanf(" %f",&centigrade);
 Fahrenheit = ( centigrade * 9.0 / 5.0 ) +32 ;
 
 printf("Equivalent temperatrure in Fahrenchait %.2f" ,Fahrenheit);
-;return 0 ;
+return 0 ;
 
 } 
