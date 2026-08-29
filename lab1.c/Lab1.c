@@ -60,9 +60,4 @@ Fahrenheit = ( centigrade * 9.0 / 5.0 ) +32 ;
 printf("Equivalent temperatrure in Fahrenchait %.2f" ,Fahrenheit);
 
 
-printf("\n########################################Finale###################################### ");
-int z = 2;
-
-printf("qwer");
-scanf("sss%d",z);
 } 
